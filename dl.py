@@ -1,4 +1,4 @@
-# Create folder names "Breaking bad" first
+# Create folder named "Breaking bad" first
 
 from BeautifulSoup import BeautifulSoup
 import urllib
